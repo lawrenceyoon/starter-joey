@@ -1,3 +1,3 @@
-# starter-joey-thinkful
+# Joey webpage
 
-This repo contains the starter and solution code for the Joey Thinkful resume exercise.
+A resume exercise me and my group worked on for Thinkful's course.
